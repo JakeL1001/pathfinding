@@ -24,7 +24,8 @@ pygame.display.set_icon(icon)
 
 #Screen
 
-ncells = 50
+ncells = 30
+
 cell_size = int(1000/ncells)
 
 line_colour = (255,255,255)
